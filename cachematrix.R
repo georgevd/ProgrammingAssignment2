@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## Matrix inversion
 
 ## Write a short comment describing this function
 ## Creates a matrix that can cache its inverse
